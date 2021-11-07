@@ -1,8 +1,7 @@
 ### Article link
-
+https://zhuanlan.zhihu.com/p/430141027
 
 ### Execution Steps
-
-1. python main.py
+python main.py
 
 
