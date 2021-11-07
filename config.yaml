@@ -1,0 +1,10 @@
+data_root: '/home/jack/Desktop/Jack/dataset/dog_cat_data'
+train_path: '/home/jack/Desktop/Jack/dataset/dog_cat_data/train'
+test_path: '/home/jack/Desktop/Jack/dataset/dog_cat_data/test'
+csv_path: './submission.csv'
+tensorboard_path: './tensorboard_info'
+model_save_path: './dogs-vs-cats.pth'
+
+batch_size: 200
+epochs: 10
+lr: 0.001
